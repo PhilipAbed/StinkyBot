@@ -5,7 +5,7 @@
     "projectToken": "",
     "baseBranches": [],
     "enableSAST": true
-  },
+  }, 
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
